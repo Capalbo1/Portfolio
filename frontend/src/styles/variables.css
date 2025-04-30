@@ -1,0 +1,17 @@
+:root {
+    /* Cores */
+    --primary-color: #2563eb;
+    --secondary-color: #1e40af;
+    --bg-color: #f8fafc;
+    --text-color: #1e293b;
+    --text-light: #64748b;
+  
+    /* Espaçamentos */
+    --space-sm: 0.5rem;
+    --space-md: 1rem;
+    --space-lg: 2rem;
+  
+    /* Bordas */
+    --border-radius: 8px;
+    --box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
